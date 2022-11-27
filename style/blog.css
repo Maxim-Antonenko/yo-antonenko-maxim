@@ -2,7 +2,6 @@
 
 .header{
     display: inline-flex;
-    align-items: center;
     margin-top: 44px;
     width: 1178px; 
  }
@@ -234,6 +233,7 @@ color: #1E0606;
 .footer{
     display: flex;
     margin-top: 60px;
+    margin-left: -110px;
     width: 1400px;
     height: 556px;
     background: #434343;
